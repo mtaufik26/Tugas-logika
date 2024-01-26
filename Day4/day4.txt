@@ -1,0 +1,6 @@
+1. Terdapat variabel, dengan isi "Wikrama" ambil huruf terakhir kedua dari string tersebut
+2. Tampilkan akngka 1-10 menggunkan perulangan
+3. Tampilkan akngka 10-1 menggunkan perulangan
+4. Munculkan lah tag hading 1-6 html menggunkan perulangan
+5. Nilai variabel A bisa dibagi dengan 4. Berpakah nilai variabel tersebut dari rentan 1-30.
+6. Berapa kemungikan bilangan 225 bisa dibagi habis dengan bilangan kelipatan 5 (5-25)

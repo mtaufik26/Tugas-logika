@@ -1,0 +1,15 @@
+1. Predikat terhadap hasil ujian diberikan ketika : Mendapatkan predikat A jika nilai lebih dari 90, Mendapatkan predikat B jika nilai lebih besar dari 75, selain itu Mendapatkan predikat C
+2. Waktu tidur yang baik untuk anak usia 6-12 adalah 10 jam. Untuk usia 12-18 adalah 8-9 jam. Untuk usia 18-40 adalah 7-8 jam. apabila seseorang berusia 17 tahun berapa waktu tidur yang baik.
+3. Apakah angka 9 termasuk bilangan negatif, bilangan positif, atau bilangan cacah.
+4. Di suatu rumah produksi yang memiliki jam kerja 8 jam. Jika pegawai bekerja melebihi jam kerja berhak mendapatkan kompensasi berupa Rp. 30.000 di ja, berikutnya. Jika Dani bekerja dari pukul 8 Pagi lalu pulang di pukul 10 malam, berapakah kompensasi yang akan diterima Dani.
+5. Andi lahir tahun 2004 dan Eko lahir 3 tahun sebelum Andi. Dari kedua orang tersebut siapakah yang lahir di tahun kabisat? Apakah Andi atau Eko atau keduanya.
+6. Setiap orang memiliki INT dan kategori INT nya masing masing berikit kategori INT : 
+        -kurang dari 18.5 : Berat bada Kurang 
+        -Dari 18.5 sampai kurang dari 22.9:Normal
+        -Dari 22.9 sampai kurang dari 24.9:Berat badan lebih
+        -Lebih dari dan sama dengan 25:Obesitas
+   Jika Beni memiliki berat badan 44 kg dengan dengan tinggi badan 148cm, termasuk kedalah kategori apakah Beni?
+7.Menu di rumah makan Beni
+    Nasi Goreng = 15000, Ayam bakar = 20000, Nasi Kebuli = 25000, Aneka Jus = 8000, Es teh manis = 3000, Es jeruk = 5000
+Rumah makan Beni mengadakan program jumat berkah dengan memberikan diskon sebesar 5% di hari jumat dan 2% dihari senin. Hitung harga yang harus dibayar jika Dani ingin beli 2 nasi kebuli, 1 ayam bakar, 2 nasi goreng(gunakan hari secara otomatis dari hari ini)   
+10. Mini market eko menjual berbagai kebutuhan. Setiap pelanggan yang berbelanja lebih dari 100.000 akan mendapatkan voucher potongan harga sebesar 10.000. Jika total belanja lebih dari 150.000, akan mendapatkan voucher potongan harga 10.000 dan 1 dus permen kaki.
